@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/Images">
+        <file>error.png</file>
+        <file>play-button.png</file>
+        <file>success.png</file>
+        <file>picture.png</file>
+        <file>modem.wav</file>
+        <file>finger.png</file>
+        <file>quant.png</file>
+        <file>giphy.png</file>
+        <file>giphy.gif</file>
+        <file>3.jpg</file>
+    </qresource>
+</RCC>
